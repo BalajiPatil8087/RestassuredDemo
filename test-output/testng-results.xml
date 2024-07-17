@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-03T11:24:04 IST" name="Default suite" finished-at="2024-07-03T11:24:12 IST" duration-ms="7768">
+    <groups>
+    </groups>
+    <test started-at="2024-07-03T11:24:04 IST" name="Default test" finished-at="2024-07-03T11:24:12 IST" duration-ms="7768">
+      <class name="com.maveric.project.test.SecuredFakeApiTest">
+        <test-method is-config="true" signature="setUpAPIEnv()[pri:0, instance:com.maveric.project.test.SecuredFakeApiTest@a38c7fe]" started-at="2024-07-03T11:24:04 IST" name="setUpAPIEnv" finished-at="2024-07-03T11:24:05 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAPIEnv -->
+        <test-method is-config="true" signature="setUpAuthEnv()[pri:0, instance:com.maveric.project.test.SecuredFakeApiTest@a38c7fe]" started-at="2024-07-03T11:24:05 IST" name="setUpAuthEnv" finished-at="2024-07-03T11:24:08 IST" duration-ms="2926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAuthEnv -->
+        <test-method signature="test1()[pri:0, instance:com.maveric.project.test.SecuredFakeApiTest@a38c7fe]" started-at="2024-07-03T11:24:08 IST" name="test1" finished-at="2024-07-03T11:24:10 IST" duration-ms="1941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:com.maveric.project.test.SecuredFakeApiTest@a38c7fe]" started-at="2024-07-03T11:24:10 IST" name="test2" finished-at="2024-07-03T11:24:10 IST" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:com.maveric.project.test.SecuredFakeApiTest@a38c7fe]" started-at="2024-07-03T11:24:10 IST" name="test3" finished-at="2024-07-03T11:24:11 IST" duration-ms="1137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:com.maveric.project.test.SecuredFakeApiTest@a38c7fe]" started-at="2024-07-03T11:24:11 IST" name="test4" finished-at="2024-07-03T11:24:12 IST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- com.maveric.project.test.SecuredFakeApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
